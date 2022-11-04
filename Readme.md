@@ -14,4 +14,4 @@
 
 +  [YanzCode](https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/cv/image_ocr.html) : 通过OCR实现验证码识别
 
-+  [Z_TY](./) : 基于单层线性网络的二分类算法，基于自建的随机数据
++  [Z_TY](../../) : 基于单层线性网络的二分类算法，基于自建的随机数据
